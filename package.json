@@ -1,0 +1,24 @@
+{
+  "name": "fetch-quokka-plugin",
+  "version": "1.0.0",
+  "description": "Quokka plugin to allow fetch queries to be run",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unfaiyted/quokka-fetch.git"
+  },
+  "keywords": [
+    "Quokka.js",
+    "Wallaby.js"
+  ],
+  "author": "Dane L Miller",
+  "license": "MIT",
+  "homepage": "https://github.com/unfaiyted/quokka-fetch",
+  "dependencies": {
+    "node-fetch": "^3.2.5"
+  }
+}
